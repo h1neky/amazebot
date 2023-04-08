@@ -1,0 +1,7 @@
+aiogram
+pyqiwip2p
+captcha
+asyncio
+numpy
+apscheduler
+pytz
